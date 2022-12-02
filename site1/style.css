@@ -1,0 +1,16 @@
+footer a{
+    color: white;
+}
+footer a:hover{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+nav a{
+    color: black;
+}
+nav a:hover{
+    color: blueviolet;
+    text-decoration: none;
+    
+}
